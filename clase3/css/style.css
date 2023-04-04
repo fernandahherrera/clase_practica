@@ -1,0 +1,48 @@
+body {
+    margin: 0;
+    padding: 0;
+    background: #dfe6e9;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+}
+
+img {
+    width: 200px;
+    height: 200px;
+}
+
+.inf {
+    background-color: #3c6382;
+    float:left;
+    height: 950px;
+    padding:20px;
+    width:200px;
+    margin: 5px;
+  }
+
+.edu {
+    background-color: #a29bfe;
+    float:left;
+    height: 970px;
+    padding:10px;
+    width:500px;
+    margin: 5px;
+  }
+
+  img {
+    border-radius: 50%;
+    border: 10px;
+  }
+
+  .space {
+    line-height:0px;
+    display: block;
+    display: inline-block;
+  }
+
+  .name {
+    font-size: 40px;
+  }
