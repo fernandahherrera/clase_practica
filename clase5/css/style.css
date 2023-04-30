@@ -1,0 +1,113 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+body {
+    margin: 0%;
+}
+
+.navbar {
+    opacity: .6;
+}
+
+.container {
+    padding-left: 40px;
+   
+}
+
+.collapse {
+    padding-right: 40px;
+}
+
+
+
+.titulo {
+    position: absolute;
+    color: white;
+    top: 150px;
+    left: 40px;
+}
+
+button {
+    position: absolute;
+    top: 360px;
+    left: 250px;
+}
+
+.sobre {
+    position:absolute;
+    top:0px;
+    left:0px;
+    border:none;
+    margin-right: auto;
+    margin-left: 650px;
+    padding-top: 120px;;
+   }
+   
+.first-section {
+    text-align: center;
+    justify-content: center;
+    padding-bottom: 60px;
+    margin: -90px 40px 80px 40px ;
+}
+
+.card {
+    padding: 0 40px 0 40px;
+    background-color: #eb144c;
+    width: 80px;
+}
+
+.card-deck {
+    margin: 0 40px 0 40px;
+}
+
+.second-section {
+    text-align: center;
+    justify-content: center;
+    padding-top: 100px;
+    padding-bottom: 60px;
+    margin-bottom: 80px;
+    margin: 0 40px 80px 40px ;
+}
+
+.follow {
+    margin-top: 40px;
+}
+
+footer {
+    margin: -300px;
+    padding: 0%;
+    width: 100%;
+}
+
+.final {
+    position: absolute;
+    top: 1200px;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    bottom: 0;
+    display: flex;
+    justify-content: center;
+}
+
+.icons {
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%, 1100%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .icons img {
+    margin: 0 10px;
+    width: 30px;
+    height: 30px;
+    bottom: 2px;
+  }
